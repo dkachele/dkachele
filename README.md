@@ -168,6 +168,6 @@ If you have feedback for me, I will expect this feedback also to be as immediate
 
 **I also swear a lot.** Sorry. 🤬
 
-P.S. If you're really sick take the day off; if you're somewhat ill work from home. It's for the betterment of yourself and the department. Whatever you have, I guarantee, those that sit close to you don't want it, cause I know I don't want it nor do I want to take it home. **I mean this** 
+P.S. If you're really sick take the day off; if you're somewhat ill work from home. It's for the betterment of yourself and the department. Whatever you have, I guarantee, those that sit close to you don't want it, cause I know I don't want it nor do I want to take it home. **I mean this.** 
 
 *This document is a living breathing thing and likely incomplete. I update it frequently and would appreciate your feedback and welcome pull requests.*
