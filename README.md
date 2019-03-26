@@ -36,6 +36,8 @@ If I have my headphones on it typically means I am working in the zone, unless i
 
 ## My assumptions
 
+**That everything is good.** I work under the assumption that everything is going well, including your workload, your approaching deadlines, where we stand, your relationships with other individuals on the team, etc. Unless you tell me otherwise, never underestimate how little I know about a topic.
+
 **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) trying to gather context, or b) trying to be a sounding board and rubber duck.
 
 **I’m not good at your job.** You know best. I’ll work to provide the necessary context and ask questions to help you vet your ideas.
