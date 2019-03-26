@@ -68,13 +68,13 @@ I work a bit at night and on the weekends. This is my choice. *I do not expect t
 
 I respect both the ability to respond immediately and the need to thoughtfully reflect and get back to me, for the later I expect an immediate (within the time expectation outlined below) response that states an estimated time of the thoughtful one.
 
-**Email** I expect you to read and reply to emails at least once a day, I also expect you to **_not_** check it outside of business hours.
+**Email:** I expect you to read and reply to emails at least once a day, I also expect you to **_not_** check it outside of business hours.
 
-**Slack** I expect you to read and reply to messages within a few hours, I also expect you to **_not_** check it outside of business hours (there are exceptions, if you fall into this category, you will know it).
+**Slack:** I expect you to read and reply to messages within a few hours, I also expect you to **_not_** check it outside of business hours (there are exceptions, if you fall into this category, you will know it).
 
-**Text** I expect you to read and reply within 30 minutes, sooner if you want to avoid a phone call.
+**Text:** I expect you to read and reply within 30 minutes, sooner if you want to avoid a phone call.
 
-**Phone call** I expect you to answer or reply (phone or text) ASAP.
+**Phone call:** I expect you to answer or reply (phone or text) ASAP.
 
 *That said the maintenance of inboxes (email, Slack, etc.) is not what you’re here to do. Attention is a valuable resource, and I'd prefer you use your's elsewhere.*
 
