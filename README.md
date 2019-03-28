@@ -10,11 +10,11 @@ This document is a compilation of my thoughts and thoughts I've stolen from othe
 
 ## Motivation behind this doc
 
-This readme exists for three reasons: 1.) help me identify and refine my thoughts and values, 2.) help you understand me better to help us work together, 3.) setting high-level expectations.
+This readme exists for three reasons: 1.) help me identify and refine my thoughts and values, 2.) help you understand me better to aid us working together, 3.) setting high-level expectations.
 
 But it is not a substitution for actually talking and getting to know to one another.
 
-It’s going to take a solid quarter to figure this place out; this is a complicated place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
+It’s going to take a solid quarter to figure this place out; One Click is a complicated company full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
 One of the working relationships we need to define is ours. The following is a user guide for me, about me and how I work. It captures what you can expect out of the average week working with me, how I like to work, and some of my quirks. I recommend and hope you make one too, but I do not require it.
 
@@ -36,7 +36,7 @@ If I have my headphones on it typically means I am working in the zone, unless i
 
 ## My assumptions
 
-**That everything is good.** I work under the assumption that everything is going well, including your workload, your approaching deadlines, where we stand, your relationships with other individuals on the team, etc. Unless you tell me otherwise, never underestimate how little I know about a topic.
+**That everything is good.** I work under the assumption that everything is going well, including your workload, your approaching deadlines, where we stand, your relationships with other individuals on the team, etc. Unless you tell me otherwise, my faith in you tells me that everything is fine. Never underestimate how little I know about a topic.
 
 **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) trying to gather context, or b) trying to be a sounding board and rubber duck.
 
@@ -46,13 +46,13 @@ If I have my headphones on it typically means I am working in the zone, unless i
 
 **You’ll let me know if you can’t do your job.** One of my primary responsibilities is ensuring that you are set up for success. My job is to remove roadblocks, occasionally things slip through the cracks, and I won’t know I’m letting you down unless you tell me.
 
-**You feel safe debating with me.** I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing, I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate.
+**You feel safe debating with me.** I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing, I’m most likely just playing devil’s advocate or just wanting to dive a little deeper. This does rely on us being able to have a safe debate.
 
 **You tried first.** I want you to ask for help. I love it when you ask for help. But if you do, I'll assume you tried your hardest before you did. If you didn't, I  will be frustrated.
 
 ## Our average week
 
-I expect project work, support tickets, individual requests, office visits, etc. to take precedent over Objectives & Goals. I expect this will lead to conflicts; this is okay; I expect to talk about these in our 1:1s. OGs are not set in stone and can always be adjusted (for a good reason), some weeks OGs will win, some weeks the fray will win. Telling me you're having trouble with OGs in the first month of a quarter is perfectly acceptable, telling me you're having trouble with OGs two week before they are due isn't.
+I expect project work, support tickets, individual requests, office visits, etc. to take precedent over Objectives & Goals. I expect this will lead to conflicts; this is okay; I expect to talk about these in our 1:1s. OGs are not set in stone and can always be adjusted (for a good reason), some weeks OGs will win, some weeks the fray will win. Telling me you're having trouble with OGs in the first month of a quarter is perfectly acceptable, telling me you're having trouble with OGs two week before they are due isn't. Talking about obstacles and other issues as they arise will be critical as we build trust in one another.
 
 We’ll have a 1:1 every week for at least 30 minutes unless there is an outage or Armageddon project. This meeting focuses on topics of substance, not updates.... unless you want to talk about updates; it is solely for your benefit. I expect you to drive this meeting after we've gone through your agenda, I will likely have a few questions per week. Private meeting room, coffee in the cafe, head out for a walk, let me know what works best for you, where and how you'll be most comfortable.
 
@@ -60,7 +60,7 @@ Bringing an issue or problem to this meeting is not a sign of weakness or failur
 
 We’ll have a department meeting that includes huddle, weekly team retrospective, sprint planning and code review every week for 60-90 minutes no matter what.
 
-Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk. Heard a rumor? Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1. Feel free to put something in my calendar; don’t feel like you need to ask first. Is my calendar full? Send me a message, and I’ll very likely be able to move something around.
+Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk. Heard a rumor? Need clarification on something? Blocked? I’d love to hear about it as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don’t need to wait for our next scheduled 1:1. Feel free to put something in my calendar; don’t feel like you need to ask first. Is my calendar full? Send me a message, and I’ll very likely be able to move something around.
 
 ## Communication expectations
 
@@ -112,7 +112,7 @@ I respect both the ability to respond immediately and the need to thoughtfully r
 
 ## What will disappoint and/or frustrate me
 
-You should know what "exceptional work" is.
+Not knowing what "exceptional work" is.
 
 Having an ego.
 
