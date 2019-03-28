@@ -34,6 +34,8 @@ I often use humor as a coping mechanism to break the ice, to cut the tension, to
 
 If I have my headphones on it typically means I am working in the zone, unless it's an urgent issue I'd appreciate it if it could wait. **If it's important** interrupt me 100% of the time. If you have your headphones on (or whatever other signals that you are in the zone you wish me to use), I'll do my best not to interrupt you.
 
+BTW, I don't take a lunch most days, my wife calls me the food camel but I tend to graze throughout the day. Your lunch schedule is up to you.
+
 ## My assumptions
 
 **That everything is good.** I work under the assumption that everything is going well, including your workload, your approaching deadlines, where we stand, your relationships with other individuals on the team, etc. Unless you tell me otherwise, my faith in you tells me that everything is fine. Never underestimate how little I know about a topic.
