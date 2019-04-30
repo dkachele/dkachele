@@ -32,7 +32,7 @@ I will never throw anyone under the bus and expect the same from you. Outside of
 
 I often use humor as a coping mechanism to break the ice, to cut the tension, to end an awkward moment or to relax a situation. If this bothers you, let me know.
 
-If I have my headphones on it typically means I am working in the zone, unless it's an urgent issue I'd appreciate it if it could wait. **If it's important** interrupt me 100% of the time. If you have your headphones on (or whatever other signals that you are in the zone you wish me to use), I'll do my best not to interrupt you.
+If I have my headphones on it typically means I am working in the zone, unless it's an urgent issue I'd appreciate it if it could Slack me first so that I may disengage at the soonest logical point. **If it's important** interrupt me 100% of the time. If you have your headphones on (or whatever other signals that you are in the zone you wish me to use), I'll do my best not to interrupt you.
 
 BTW, I don't take a lunch most days, my wife calls me the food camel but I tend to graze throughout the day. Your lunch schedule is up to you.
 
@@ -54,7 +54,7 @@ BTW, I don't take a lunch most days, my wife calls me the food camel but I tend 
 
 ## Our average week
 
-I expect project work, support tickets, individual requests, office visits, etc. to take precedent over Objectives & Goals. I expect this will lead to conflicts; this is okay; I expect to talk about these in our 1:1s. OGs are not set in stone and can always be adjusted (for a good reason), some weeks OGs will win, some weeks the fray will win. Telling me you're having trouble with OGs in the first month of a quarter is perfectly acceptable, telling me you're having trouble with OGs two week before they are due isn't. Talking about obstacles and other issues as they arise will be critical as we build trust in one another.
+I expect project work, support tickets, individual requests, office visits, etc. to take precedent over Objectives & Goals. I expect this will lead to conflicts; this is okay; I expect to talk about these in our 1:1s. OGs are not set in stone and can always be adjusted (for a good reason), some weeks OGs will win, some weeks the fray will win. Telling me you're having trouble with OGs in the first month of a quarter is perfectly acceptable, telling me you're having trouble with OGs two weeks before they are due isn't. Talking about obstacles and other issues as they arise will be critical as we build trust in one another.
 
 We’ll have a 1:1 every week for at least 30 minutes unless there is an outage or Armageddon project. This meeting focuses on topics of substance, not updates.... unless you want to talk about updates; it is solely for your benefit. I expect you to drive this meeting after we've gone through your agenda, I will likely have a few questions per week. Private meeting room, coffee in the cafe, head out for a walk, let me know what works best for you, where and how you'll be most comfortable.
 
