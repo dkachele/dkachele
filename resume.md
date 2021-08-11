@@ -65,6 +65,7 @@ Minor: Mathematics
 
 ## References
 Randy Stocklin: Entrepreneur & Investor  
-Eric W. Smith: Venture Builder 
+Eric W. Smith: Venture Builder  
 Jon Corwin: Senior Director of Digital Marketing  
 Tim Klausmeier: Senior Director of Business Intelligence  
+Lee Frazee: VP of Sales  
