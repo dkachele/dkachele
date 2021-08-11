@@ -11,7 +11,7 @@ I am a dedicated, passionate, and driven technologist who finds fulfillment and 
 
 ### FGX International (formerly One Click Ventures): Indianapolis, IN
 
-#### Senior Director of Technology: Jan 2016 - Present
+##### Senior Director of Technology: Jan 2016 - Present
 
 I took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
 - Championed post-acquisition transition and core integrations
@@ -19,7 +19,7 @@ I took on additional roles and responsibilities with an organization restructure
 - Drove CRO efforts to 8%+ Ecom CR Rate
 - Over three years without a public-facing outage
 
-#### Director of Technology: June 2012 - Jan 2016
+##### Director of Technology: June 2012 - Jan 2016
 
 Responsible for technical strategy and overall platform architecture, develops and maintains dynamic e-commerce applications for reliability, security, manageability, scalability, and performance; provides technical expertise in architecture, design, and implementation.
 - Migrated infrastructure from dedicated hardware to AWS, leading to improved performance and reliability at a reduced cost
@@ -27,7 +27,7 @@ Responsible for technical strategy and overall platform architecture, develops a
 - Oversaw development of a custom prescription eyewear site
 - Led technical divesting of multiple websites after a shift in company direction
 
-#### Web Developer: June 2010 - June 2012
+##### Web Developer: June 2010 - June 2012
 
 Responsible for developing and maintaining e-commerce applications and managed services. Delivered features driven at engaging, retaining, and acquiring new customers by focusing on experience.
 - Improved site uptime to three nines
@@ -35,7 +35,7 @@ Responsible for developing and maintaining e-commerce applications and managed s
 
 ### Search Optics: San Diego, CA
 
-#### PHP Developer: Sept 2006 - June 2010
+##### PHP Developer: Sept 2006 - June 2010
 
 Web Designer/Developer for large-scale projects including inventory systems, inventory management, automated data processing, campaign management tools, campaign analysis tools, and custom CMS.
 - Created a custom CMS for automotive dealerships with over 80 clients
@@ -44,15 +44,15 @@ Web Designer/Developer for large-scale projects including inventory systems, inv
 
 ### The Bentcil Company: Indianapolis, IN
 
-#### Iterim Art Director: Aug 2005 - Aug 2006
+##### Iterim Art Director: Aug 2005 - Aug 2006
 
 Oversaw and approved creative work.
 
-#### Web Developer: Aug 2004 - Aug 2006
+##### Web Developer: Aug 2004 - Aug 2006
 
 Assisted in building and maintaining an online catalog for core and affiliate companies.
 
-#### Pre-press Designer: Aug 2003 - Aug 2004
+##### Pre-press Designer: Aug 2003 - Aug 2004
 
 Prepared graphics for printing from client specification. Assisted in designing the annual paper catalog.
 
