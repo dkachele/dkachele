@@ -23,6 +23,7 @@ I took on additional roles and responsibilities with an organization restructure
 
 Responsible for technical strategy and overall platform architecture, develops and maintains dynamic e-commerce applications for reliability, security, manageability, scalability, and performance; provides technical expertise in architecture, design, and implementation.
 - Migrated infrastructure from dedicated hardware to AWS, leading to improved performance and reliability at a reduced cost
+- Architected our business intelligence data warehouse
 - Consolidated multiple e-commerce brands to a unified codebase
 - Oversaw development of a custom prescription eyewear site
 - Led technical divesting of multiple websites after a shift in company direction
