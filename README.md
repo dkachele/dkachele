@@ -43,15 +43,15 @@ BTW, I don't take a lunch most days, my wife calls me the food camel but I tend 
 
 #### Our average week
 
-I expect project work, support tickets, individual requests, office visits, etc., to take precedent over Objectives & Goals. I expect this will lead to conflicts; this is okay; I expect to discuss these in our 1:1s. O.G.s are not set in stone and can always be adjusted (for a good reason); some weeks O.G.s will win, some weeks the fray will win. Telling me you're having trouble with O.G.s in the first month of a quarter is perfectly acceptable; telling me you're having trouble with O.G.s two weeks before they are due isn't. Talking about obstacles and other issues as they arise will be critical as we build trust.
+I expect project work, support tickets, individual requests, office visits, etc., to take precedent over Objectives & Goals (O.G.s). I expect this will lead to conflicts; this is okay; I expect to discuss these in our 1:1s. O.G.s are not set in stone and can always be adjusted (for a good reason); some weeks O.G.s will win, some weeks the fray will win. Telling me you're having trouble with O.G.s in the first month of a quarter is perfectly acceptable; telling me you're having trouble with O.G.s two weeks before they are due isn't. Talking about obstacles and other issues as they arise will be critical as we build trust.
 
-We'll have a 1:1 every week for at least 30 minutes unless there is an outage or Armageddon project. This meeting focuses on topics of substance, not updates.... unless you want to talk about updates, it is solely for your benefit. I expect you to drive this meeting after we've gone through your agenda; I will likely have a few questions per week. Private meeting room, coffee in the cafe, head out for a walk, let me know what works best for you, where and how you'll be most comfortable.
+We'll have a 1:1 every week for at least 30 minutes unless there is an outage or Armageddon project. This meeting focuses on topics of substance, not updates.... unless you want to talk about updates, it is solely for your benefit. I expect you to drive this meeting after we've gone through your agenda; I will likely have a few questions per week.
 
 Bringing an issue or problem to this meeting is not a sign of weakness or failure; having an issue and not utilizing every resource (me in this context) is. If you miss our 1:1 due to a conflict on your end, it is your responsibility to schedule a makeup, and likewise, if I have a conflict, I will reschedule.
 
 We'll have a department meeting that includes a huddle, weekly team retrospective, sprint planning, and code review every week for 60-90 minutes no matter what.
 
-Very few things are more important than talking to you if you want to talk to me. If you need to talk, let's talk. Heard a rumor? Need clarification on something? Blocked? I'd love to hear about it as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don't need to wait for our next scheduled 1:1. Feel free to put something in my calendar; don't feel like you need to ask first. Is my calendar full? Send me a message, and I'll very likely be able to move something around.
+Very few things are more important than talking to you if you want to talk to me. If you need to talk, let's talk. Heard a rumor? Need clarification on something? Blocked? I'd love to hear about it as soon as possible. Email me, text me, shoot me a Slack message, we don't need to wait for our next scheduled 1:1. Feel free to put something in my calendar; don't feel like you need to ask first. Is my calendar full? Send me a message, and I'll very likely be able to move something around.
 
 #### Communication expectations
 
@@ -59,7 +59,7 @@ You can text me 24 hours a day.
 
 I work a bit at night and on the weekends. This is my choice. *I do not expect the same from you.* I might Slack or email you things, but unless a text or phone call accompanies it, it can always wait until work begins for you on your next working day.
 
-I respect both the ability to respond immediately and the need to thoughtfully reflect and get back to me; for the later, I expect an immediate (within the time expectation outlined below) response that states an estimated time of the thoughtful one.
+I respect both the ability to respond immediately and the need to thoughtfully reflect and get back to me; for the later, I expect an immediate (within the time expectation outlined below) response that states an estimated time for the thoughtful one.
 
 **Email:** I expect you to read and reply to emails at least once a day, I also expect you to **_not_** check it outside of business hours.
 
@@ -115,7 +115,7 @@ I respect both the ability to respond immediately and the need to thoughtfully r
 
 **Foresight.** Don't forget to look up from the weeds of the day-to-day craziness to see what's coming next week.
 
-**Empowerment/Ownership.** For you that means you are in control of your destiny, and I'm just here to help you get there. For the company, that means I have your back 100% of the time; if you need to make a decision and you can't find me, I'll always back your play (tho we may discuss alternative solutions in private later).
+**Empowerment/Ownership.** For you that means you are in control of your destiny, and I'm just here to help you get there. For the company, that means I have your back 100% of the time; if you need to make a decision and you can't find me, I'll always back your play (though we may discuss alternative solutions in private later).
 
 ## What will frustrate me
 
@@ -125,11 +125,11 @@ Having an ego.
 
 Doing work without understanding "Why are we doing it & why now."
 
-Wasting time. (Do **not** read that as R+D or failures are a waste.)
+Wasting time. (Do **not** read that as R&D or failures are a waste.)
 
 Not investing time to improve your skills, both professional and directly related to your role.
 
-I have little tolerance for indifference and pessimism, even tho I joke about them.
+I have little tolerance for indifference and pessimism, even though I joke about them.
 
 ## Meetings
 
