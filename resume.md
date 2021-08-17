@@ -63,7 +63,7 @@ Prepared graphics for printing from client specification. Assisted in designing 
 
 1998-2003: **BS, New Media Arts and Science**; Indiana University-Purdue University at Indianapolis
 
-I was a physics major for three and a half years before they opened the informatics department and changed majors my senior year.
+I was a physics major for three and a half years before they opened the informatics department and changed majors my senior year.  
 Minor: Mathematics
 
 ## References
