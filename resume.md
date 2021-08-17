@@ -7,7 +7,7 @@ Indianapolis, IN
 
 I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and thrives in fast-paced entrepreneurial environments.  
 
-You can find more information about me and how I work in my [README](https://github.com/dkachele/me/blob/master/README.md).
+You can find more information about me and how I work in my [README](https://github.com/dkachele/me/blob/main/README.md).
 
 ## Experience
 
