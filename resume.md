@@ -3,7 +3,6 @@ Indianapolis, IN
 317-883-7345  
 dkachele@gmail.com  
 https://www.linkedin.com/in/dale-kachele  
-https://github.com/dkachele/me/blob/main/resume.md
 
 ## About
 
