@@ -5,9 +5,7 @@ Indianapolis, IN
 
 ## About
 
-I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and thrives in fast-paced entrepreneurial environments.  
-
-You can find more information about me and how I work in my [README](https://github.com/dkachele/me/blob/main/README.md).
+I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
 
 ## Experience
 
@@ -16,6 +14,7 @@ You can find more information about me and how I work in my [README](https://git
 ##### Senior Director of Technology: Jan 2016 - Present
 
 I took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
+- Assembled a highly-effective and engaged team by hiring, training, and coaching direct reports
 - Championed post-acquisition transition and core integrations
 - Led the pre-acquisition technical vetting and auditing
 - Drove CRO efforts to 8%+ Ecom CR Rate
