@@ -1,10 +1,6 @@
-# Dale Kachele
-Indianapolis, IN  
-317-883-7345  
-dkachele@gmail.com  
-https://www.linkedin.com/in/dale-kachele  
+<sup>Indianapolis, IN | 317-883-7345 | dkachele@gmail.com | https://www.linkedin.com/in/dale-kachele</sup>
 
-## About
+## Dale Kachele
 
 I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
 
@@ -74,4 +70,5 @@ Eric W. Smith: Venture Builder
 Jon Corwin: Senior Director of Digital Marketing  
 Tim Klausmeier: Senior Director of Business Intelligence  
 Lee Frazee: VP of Sales  
-`Contact information provided upon request`
+
+<sup>*Contact information provided upon request</sup>
