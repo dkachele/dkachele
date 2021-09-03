@@ -64,6 +64,11 @@ Minor: Mathematics
 
 I was a physics major for three and a half years before they opened the informatics department and changed majors my senior year.  
 
+## Skills
+
+AWS, PHP, MySQL, JavaScript, HTML, CSS, Platform Architecture, Automation, Ownership, Problem Solving, Deliberative, Google Analytics, Data Studio, Data Analysis, Microsoft Office & Google Docs, Conversion Rate Optimization, Performance Optimization, Strategic Planning, Operational Budgeting, Coaching, Redundancy Planning, Disaster Planning and Recovery.
+
+
 ## References
 Randy Stocklin: Entrepreneur & Investor  
 Eric W. Smith: Venture Builder  
