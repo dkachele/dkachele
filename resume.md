@@ -1,7 +1,5 @@
 # Dale Kachele
-dkachele@gmail.com  
-317-883-7345  
-Indianapolis, IN  
+Indianapolis, IN | 317-883-7345 | dkachele@gmail.com | https://www.linkedin.com/in/dale-kachele
 
 ## About
 
