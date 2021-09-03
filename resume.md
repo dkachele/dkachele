@@ -5,6 +5,8 @@ Indianapolis, IN
 
 ## About
 
+Husband. Dad. Professional keyboard smasher. Experienced tinkerer. Expert breaker of things. Seeker of enlightenment.
+
 I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
 
 ## Experience
@@ -72,3 +74,4 @@ Eric W. Smith: Venture Builder
 Jon Corwin: Senior Director of Digital Marketing  
 Tim Klausmeier: Senior Director of Business Intelligence  
 Lee Frazee: VP of Sales  
+`Contact information provided upon request`
