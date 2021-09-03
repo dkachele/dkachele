@@ -3,8 +3,6 @@ Indianapolis, IN | 317-883-7345 | dkachele@gmail.com | https://www.linkedin.com/
 
 ## About
 
-Husband. Dad. Professional keyboard smasher. Experienced tinkerer. Expert breaker of things. Seeker of enlightenment.
-
 I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
 
 ## Experience
