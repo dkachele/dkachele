@@ -18,7 +18,8 @@ I am a dedicated, passionate, and driven technologist who finds fulfillment and 
 I took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
 - Assembled a highly-effective and engaged team by hiring, training, and coaching direct reports
 - Championed post-acquisition transition and core integrations
-- Led the pre-acquisition technical vetting and auditing
+- Member of small internal team tasked with preparing company to be acquired, 2018
+- Led the pre-acquisition technical vetting, auditing, and participated in live Q&A of due diligence
 - Drove CRO efforts to 8%+ Ecom CR Rate
 - Over three years without a public-facing outage
 
