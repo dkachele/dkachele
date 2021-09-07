@@ -2,7 +2,7 @@
 
 ## Dale Kachele
 
-I am a dedicated, passionate, and driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. I am people-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
+Driven technologist who finds fulfillment and joy in collaboratively building amazing tools and experiences that make a lasting impact. People-focused first and data-driven second and one who thrives in fast-paced entrepreneurial environments.  
 
 ## Experience
 
@@ -50,7 +50,7 @@ Oversaw and approved creative work.
 
 ##### Web Developer: Aug 2004 - Aug 2006
 
-Assisted in building and maintaining an online catalog for core and affiliate companies.
+Part of a self-taught team tasked with taking our catalog, ordering, and affiliate sites online.
 
 ##### Pre-press Designer: Aug 2003 - Aug 2004
 
