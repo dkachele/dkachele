@@ -10,7 +10,7 @@ Driven technologist who finds fulfillment and joy in collaboratively building am
 
 ##### Senior Director of Technology: Jan 2016 - Present
 
-I took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
+Took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
 - Assembled a highly-effective and engaged team by hiring, training, and coaching direct reports
 - Championed post-acquisition transition and core integrations
 - Member of small internal team tasked with preparing company to be acquired, 2018
