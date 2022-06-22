@@ -24,7 +24,7 @@ We'll have a department meeting that includes a huddle, weekly team retrospectiv
 
 Very few things are more important than talking to you if you want to talk to me. If you need to talk, let's talk. Heard a rumor? Need clarification on something? Blocked? I'd love to hear about it as soon as possible. Email me, text me, or shoot me a Slack message; we don't need to wait for our next scheduled 1:1. Feel free to put something in my calendar; don't feel like you need to ask first. Is my calendar full? Please send me a message, and I'll likely be able to move something around.
 
-## Communication expectations
+## Communication expectations (Cont.)
 
 I respect both the ability to respond immediately and the need to reflect and get back to me thoughtfully; for the latter, I expect an immediate (within the time expectation outlined below) response that states an estimated time for the thoughtful one.
 
@@ -38,13 +38,13 @@ I respect both the ability to respond immediately and the need to reflect and ge
 
 *That said, the maintenance of inboxes (Email, Slack, etc.) is not what you're here to do. Attention is valuable, and I'd prefer you use yours elsewhere.*
 
-## My working assumptions
+## My working assumptions (Cont.)
 
 **That everything is good.** I work under the assumption that everything is going well, including your workload, approaching deadlines, where we stand, relationships with other individuals, etc. Unless you tell me otherwise, my faith in you tells me everything is fine. Never underestimate how little I know about a topic.
 
 **You'll let me know if you can't do your job.** One of my primary responsibilities is ensuring you are set up for success. My job is to remove roadblocks; occasionally, things slip through the cracks, and I won't know I'm letting you down unless you tell me.
 
-## What I value and expect
+## What I value and expect (Cont.)
 
 **Doing it right.** Doing it right will almost always trump doing it fast, except when it doesn't. If you need a second opinion on whether the scope of a project should increase to do it *right*, ask.
 
@@ -52,7 +52,7 @@ I respect both the ability to respond immediately and the need to reflect and ge
 
 **Empowerment/Ownership.** For you that means you are in control of your destiny, and I'm just here to help you get there. For the company, that means I have your back 100% of the time; if you need to make a decision and you can't find me, I'll always back your play (though we may discuss alternative solutions in private later).
 
-## Feedback
+## Feedback (Cont.)
 
 There is a huge difference between me telling you that you can do better and me telling you we have a performance problem. If I'm worried about your performance, I will let you know. If you worry that I'm concerned about your performance, please let me know. I can be blunt at times, but I say what I mean, I'm not smart enough for sub-context.
 
