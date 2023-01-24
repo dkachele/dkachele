@@ -6,9 +6,19 @@ Driven technologist who finds fulfillment and joy in collaboratively building am
 
 ## Experience
 
+### Multiply Technology: Indianapolis, IN
+
+##### Senior Software Engineer II: Nov 2021 - Present
+
+Responsible for building a foundational level full-stack for a home-grown SaaS platform for managing IT assets, including AWS infrastructure, robust API, SPA frontend, and scalable asynchronous processing via SAM. Also developed, documented, implemented, and maintained SOP for the P&E team, including source control, code review, life cycle, CI, automated CI checks, and automated deployments.
+- Migrated legacy systems to AWS, reducing costs by 50% while improving uptime to 100%
+- Implemented SOP for the P&E team, enhancing visibility and forecasting while reducing bug-related outages.
+- Introduced CI checks and automated deployment capabilities leading to reduced hours spent on manual processing, and improved code quality by enforcing checks.
+- Built a foundational full-stack solution for a custom SaaS platform.
+
 ### FGX International (formerly One Click Ventures): Indianapolis, IN
 
-##### Senior Director of Technology: Jan 2016 - Present
+##### Senior Director of Technology: Jan 2016 - Nov 2021
 
 Took on additional roles and responsibilities with an organization restructure and moving Product Management, UX Design, and QA under Technology. Responsible for pre-acquisition preparation, technical vetting, evaluation, auditing, post-acquisition transition, key integration, consolidations, and developing a three-year e-commerce technical roadmap.
 - Assembled a highly-effective and engaged team by hiring, training, and coaching direct reports
