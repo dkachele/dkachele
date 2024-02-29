@@ -89,3 +89,5 @@ Tim Klausmeier: Senior Director of Business Intelligence
 Lee Frazee: VP of Sales  
 
 <sup>*Contact information provided upon request</sup>
+
+<script id="geek-merit-badges" type="text/javascript" src="https://www.geekmeritbadges.com/badges.js" async />
