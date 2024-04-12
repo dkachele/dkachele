@@ -90,4 +90,4 @@ Lee Frazee: VP of Sales
 
 <sup>*Contact information provided upon request</sup>
 
-[![Geek Merit Badges](https://www.geekmeritbadges.com/u/indyzero)](https://www.geekmeritbadges.com)
+[![Geek Merit Badges](https://www.geekmeritbadges.com/u/dkachele)](https://www.geekmeritbadges.com)
