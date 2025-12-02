@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkachele&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 <sup>Indianapolis, IN | 317-883-7345 | dkachele@gmail.com | https://www.linkedin.com/in/DaleKachele</sup>
 
 ## Dale Kachele
@@ -10,7 +8,17 @@ Driven technologist who finds fulfillment and joy in collaboratively building am
 
 ### Multiply Technology: Indianapolis, IN
 
-##### Senior Software Engineer II: Nov 2021 - Present
+##### Staff Software Engineer: Aug 2025 - Present
+
+Leading technical architecture and engineering strategy for a home-grown SaaS platform that manages IT assets at scale. I shape system design, drive cross-functional alignment, and mentor engineers while maintaining hands-on involvement in complex technical challenges. I balance strategic technical leadership with tactical execution; architecting scalable solutions across our full-stack platform (Laravel/PHP, AWS, MySQL, Vue) while elevating engineering practices and team capabilities.
+- Architecting and delivering high-impact features and foundational systems across our ITAM platform, considering tradeoffs in scalability, security, and maintainability.
+- Driving technical strategy and making decisions that impact multiple teams and products.
+- Mentoring Senior and mid-level engineers on system design, debugging approaches, and architectural thinking.
+- Championing engineering excellence through improved practices in code quality, reliability, process, and learning culture.
+- Identifying and addressing technical debt and systemic bottlenecks that limit team velocity.
+- Collaborating with Product, Design, and Services leadership to align technical solutions with business priorities
+
+##### Senior Software Engineer II: Nov 2021 - Aug 2025
 
 Responsible for building a foundational level full-stack for a home-grown SaaS platform for managing IT assets, including AWS infrastructure, robust API, SPA frontend, and scalable asynchronous processing via SAM. Also developed, documented, implemented, and maintained SOP for the P&E team, including source control, code review, life cycle, CI, automated CI checks, and automated deployments.
 - Migrated legacy systems to AWS, reducing costs by 50% while improving uptime to 100%
