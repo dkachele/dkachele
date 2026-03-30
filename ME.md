@@ -25,7 +25,7 @@ One of the working relationships we need to define is ours. The following is a u
 
 I am a father and a husband first. Family and personal health should always come first for everyone on this team, and I expect the same from my peers. Never feel bad for taking your PTO; you are not letting the team down; we are on the same team.
 
-I'm pretty open about *everything*, from the latest embarrassing story involving mine or my kids' habits to whatever we watched on Netflix this past weekend. I don't expect everyone to be as open, but I do hope that you talk to me as soon as possible when problems arise. I need that level of immediacy and transparency on issues to help move us all forward.
+I'm pretty open about *everything*, from the latest embarrassing story involving mine or my kids' habits to whatever we streamed this past weekend. I don't expect everyone to be as open, but I do hope that you talk to me as soon as possible when problems arise. I need that level of immediacy and transparency on issues to help move us all forward.
 
 If I have my headphones on, it typically means I am working in the zone; unless it's an urgent issue, I'd appreciate it if it could Slack me first so I may disengage at the soonest logical point. **If it is essential** interrupt me 100% of the time. If you have your headphones on (or whatever other signals that you are in the zone you wish me to use), I'll do my best not to interrupt you.
 
@@ -55,13 +55,13 @@ I work a bit at night and on the weekends. This is my choice. *I do not expect t
 
 **Be curious, not judgmental.** Thanks, Ted.
 
-**If it doesn't work, let's fix it.** This applies to everything; process, applications, workflows, seat arrangements, etc.
+**If it doesn't work, let's fix it.** This applies to everything; process, applications, workflows, seating arrangements, etc.
 
 **Asking why.** Nothing is sacred, and we don't do anything "because we've always done it that way."
 
 **Self-reflection.** Self-reflection is an essential part of growth. You'll miss opportunities without it.
 
-**Write code for humans, not computers.** We are heard to work on projects together, not impress each other with mental gymnastics.
+**Write code for humans, not computers.** We are here to work on projects together, not impress each other with mental gymnastics.
 
 **Disagree and commit.** Argue for what you think is the right direction, but if the team decides to go a different route, let's commit to making it the best it can be.
 
@@ -81,7 +81,7 @@ I work a bit at night and on the weekends. This is my choice. *I do not expect t
 
 **Building to fail.** Assume everything will fail at least some of the time.
 
-**Doing it right.** Doing it right will almost always trump doing it fast, except when it doesn't.
+**Doing it right.** Doing it right will almost always supersede doing it fast, except when it doesn't.
 
 **Initiative.** If you see a problem and no one else is working to fix it, you just volunteered.
 
